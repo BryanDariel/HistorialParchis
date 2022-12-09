@@ -14,7 +14,6 @@ namespace Historial_de_Parchis
     {
 
         public int NJugada = 0;
-        Array <Parchis> = new Array();
 
         public Historial()
         {
